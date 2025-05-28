@@ -41,7 +41,8 @@ class: 'bg-blue-500 text-white
 
 ---
 
-## Brand Logo
+## Brand Logo:
+
   
   <img src="https://i.postimg.cc/c4472tz5/IMG-1265.jpgimg" alt="Edupeer Logo" width="500" />
 
