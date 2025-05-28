@@ -12,8 +12,8 @@ class: 'bg-blue-500 text-white
 ---
 # Content:
 
+- Product Name 
 - Brand Logo
-- ProductName
 - The Problem
 - Our Solution
 - Brand Identity
@@ -24,23 +24,26 @@ class: 'bg-blue-500 text-white
 - Thank you Message.
 
 ---
-layout: center
-class: 'bg-blue-500 text-white
-
----
-# Brand Logo:
-
-<img src="https://i.postimg.cc/c4472tz5/IMG-1265.jpgimg" alt="Edupeer Logo" width="500" />
----
 layout: default
 class: 'bg-blue-500 text-white
 
 ---
 
 ## 1.Product Name: Edupeer
+
+ Edupeer is a peer-powered edtech platform built to democratize access to quality education, through a vibrant network of learners and mentors. Edupeer enables collaborative learning experiences , skills sharing, and guided growth for students and young professionals. 
+ The brand is positioned to be youthful, trustworthy, tech-forward, and community-driven.
+
+
+---
+layout: center
+class: 'bg-blue-500 text-white
+
+---
+
+## Brand Logo
   
-Edupeer is a peer-powered edtech platform built to democratize access to quality education, through a vibrant network of learners and mentors. Edupeer enables collaborative learning experiences , skills sharing, and guided growth for students and young professionals. 
-The brand is positioned to be youthful, trustworthy, tech-forward, and community-driven.
+  <img src="https://i.postimg.cc/c4472tz5/IMG-1265.jpgimg" alt="Edupeer Logo" width="500" />
 
 ---
 layout: default
