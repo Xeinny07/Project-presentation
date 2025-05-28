@@ -1,152 +1,139 @@
 ---
 layout: center
-class: 'bg-orange-500 text-white'
+class: 'bg-blue-500 text-white'
 ---
 
-# Edupeer Brand Identity Guide
+# Project Proposal
 **Learn Better, Together.**
 
 ---
 layout: default
-class: 'bg-orange-500 text-white'
+class: 'bg-blue-500 text-white
+
+---
+# Content:
+
+- Brand Logo
+- ProductName
+- The Problem
+- Our Solution
+- Brand Identity
+- Business Opportunity
+- Market
+- Product Roadmap
+- Visual Identity
+- Thank you Message.
+
+---
+layout: center
+class: 'bg-blue-500 text-white
+
+---
+# Brand Logo:
+
+<img src="https://i.postimg.cc/c4472tz5/IMG-1265.jpgimg" alt="Edupeer Logo" width="500" />
+---
+layout: default
+class: 'bg-blue-500 text-white
 
 ---
 
-## Product Name: Edupeer
+## 1.Product Name: Edupeer
   
 Edupeer is a peer-powered edtech platform built to democratize access to quality education, through a vibrant network of learners and mentors. Edupeer enables collaborative learning experiences , skills sharing, and guided growth for students and young professionals. 
 The brand is positioned to be youthful, trustworthy, tech-forward, and community-driven.
+
 ---
 layout: default
-class: 'bg-orange-500 text-white'
+class: 'bg-blue-500 text-white'
 
 ---
 
 ## 2. The Problem
 
-Millions of students from underserved communities:
+Many Nigerian secondary school students struggle with inconsistent access to quality academic support due to several challenges:
 
-* Lack access to quality education due to poverty, location, or instability.
-* Face digital exclusion, with little or no access to devices or internet.
-* Are isolated from mentorship, encourage, and career guidance.
-* Often drop out due to a lack of support systems and learning spaces.
+* Limited teacher availabilty and varying levels of expertise.
+* Uneven access to learning materials and resources.
+* Inadequate preparation for key exams like WAEC, NECO, and JAMB.
+* Few opportunities for personalized learning or peer collaboration.
+* Lack of academic support outside regular school hours.
 
+These gaps lead to inconsistent performance, exam stress, and untapped potential.
 >"A child's zip code should not determine their learning potential."
 
 
 ---
 layout: default
-class: 'bg-orange-500 text-white'
+class: 'bg-blue-500 text-white'
 
 ---
 
 ## 3. Our Solution
 
-Edupeer offers a hybrid, scalable learning system with three pillars.
+Edupeer is a web-based platform connecting Nigerian secondary schools with volunteer tutors (universty students, NYSC members, and professionals) to provide accessible learning support. Key features include:
+
+ * Curriculum-aligned resources - Micro-lessons, past questions, and study aids.
+ * Interactive learning - Quizzes and gamification (badges, progress tracking)
+ * Flexible tutoring - Peer study groups and one-on-one sessions
+ * Collaborativ community - Forums, Q&A, and feedback tools
+ * Accessible design - Works accross varying internet condition
+ * Managed platform - Admin tools for safety and quality control
+ * Freemium model - Free core resources + paid premium options
 
 ---
 layout: default
-class: 'bg-orange-500 text-white'
-
----
-
-
-### A. Community Learning Hubs
-
-- Safe, donated physical spaces with basic learning materials and solar power.
-- Offline-access education kits for students with no digital access.
-
----
-layout: default
-class: 'bg-orange-500 text-white'
-
----
-
-### B. Peer and Mentor Networks
-
-- Match students with peers, teachers, or volunteers.
-- Build life skills and motivation alongside academics.
-
----
-layout: default
-class: 'bg-orange-500 text-white'
-
----
-
-### C. Smart Tracking & Resources
-
-- Tools for tracking progress (digital or manual).
-- Pre-designed, localized lesson kits that work offline.
-
----
-layout: default
-class: 'bg-orange-500 text-white'
+class: 'bg-blue-500 text-white'
 
 ---
 
 ## 4. Brand Identity
+- Brand Name:
+   Edupeer- a fusion of "education" and "peer"
+   highlighting its core mission, to enable peer-to-peer learning and mentoship.
 
-- *Name:* Edupeer (Education + Peer Support)  
-- *Tagline:* “Learning, Together.”  
+- Tagline Option:
+   Learn Better,Together
+  
+- Mission Statement:
+   To democratize quality education by enabling every learner to connect, collaborate, and grow through peer-guided learning and mentorship.
+
+- Brand Positioning:
+   Edupeer provides collaborative learning experiences by combining mentorship, peer review, and personalized study paths.
+   Designed for digital natives, Edupeer leverages modern tools to empower learners at every stage. 
+
   
 ---
 layout: default
-class: 'bg-orange-500 text-white'
+class: 'bg-blue-500 text-white'
 
 ---
 
 ## 5. Business Opportunity
+   - Scalable social impact model: With a web-based model, Edupeer can rapidly scale across regions with minimal cost per additional dtudent or tutor.
+   - Government and NGO parterships: Our alignment with international goals for education reform and youth empowerment could open doors for funding, integration into school systems , and support for logistics and awareness.
+   - Freemium Model: While we can ensure that basic access is free, optional premium content or certification-based       programs can be used to generate revenue.
 ---
 layout: default
-class: 'bg-orange-500 text-white'
+class: 'bg-blue-500 text-white'
 
 ---
 
-### A. Target Impact Zones
+### 6. Market
+Nigeria has over 13 million out-of-school children, with rural and underdeserved areas facing the biggest gaps in access to quality education. Edupeer addresses this by leveraging mobile technology and internet growth to provide scalable remote learning support.
 
-- Low-income urban slums, rural villages, conflict-affected areas
-- Underperforming public schools
-
----
-layout: default
-class: 'bg-orange-500 text-white'
-
----
-
-### B. Revenue & Funding Streams
-
-- Philanthropic partnerships (NGOs, CSR)
-- Subscription/fee-for-service from schools (tiered)
-- Grants (UNESCO, UNICEF, USAID, Gates)
-- Crowdfunding and alumni giving
-
+Target Users:
+   - Primary: Rural & undeserved secondary students + urban low-income learners
+   - Volunteer Tutors: University students (flexible voluntary/credit), NYSC members
+   - Partners: Schools, education  NGOs, NYSC, corporate CSR programs
+  
+ Market Potential:
+   - Students: Massive underserved population
+   - Internet Reach: 122M+ users, with mobile broadband expanding rural access
+   - Youth Advantage: 70% of population under 30 - tech-savy volunteers & advocates
 ---
 layout: default
-class: 'bg-orange-500 text-white'
-
----
-
-### C. Scalability
-
-- Community hub model is low-cost and replicable
-- Local partnerships reduce overhead
-- Modular content allows regional adaptation
-
----
-layout: default
-class: 'bg-orange-500 text-white'
-
----
-
-## 6. Market
-
-- *Primary Market:* Students aged 10–18 from low-income or rural areas  
-- *Secondary Market:* Educators, community leaders, donors, local govts
-
-
----
-layout: default
-class: 'bg-orange-500 text-white'
+class: 'bg-blue-500 text-white'
 
 ---
 
@@ -163,32 +150,22 @@ class: 'bg-orange-500 text-white'
 
 ---
 layout: default
-class: 'bg-orange-500 text-white'
+class: 'bg-blue-500 text-white'
 ---
 
-## 8. Why is the roadmap important?
-- Organizes your goals: it breaks the big project into manageable steps.
-- Shows Progress: Stakeholders can see what's been done and what's coming next.
-- Helps With Planning: Guides the team on what to focus on at each stage.
 
+## 8: Visual Identity
+Logo Design:
 
----
-layout: default
-class: 'bg-orange-500 text-white'
-
----
-
-## Bonus: Visual Identity
-
-- *Logo:* Version with a graduation cap subtly integrated into chat bubbles. 
-- *Icons:*
-- Abstract design combining "e" and "p" as a network link or chat symbol.
-- *Tone:* Hopeful, grounded, community-centered.
+-  Variants: Version with a graduation cap subtly integrated into chat bubbles. 
+-  Icon: Abstract design combining "e" and "p" as a network link or chat symbol.
+-  Tone: Hopeful, grounded, community-centered.
+-  Style Minimalist, clean, balanced.
 
 
 ---
 layout: center
-class: 'bg-orange-500 text-white'
+class: 'bg-blue-500 text-white'
 
 ---
 
