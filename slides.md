@@ -3,8 +3,7 @@ layout: center
 class: 'bg-blue-500 text-white'
 ---
 
-# Project Proposal
-**Learn Better, Together.**
+# Team 29 Althub Project Proposal
 
 ---
 layout: default
@@ -18,10 +17,10 @@ class: 'bg-blue-500 text-white
 - The Problem
 - Our Solution
 - Brand Identity
+- Visual Identity
 - Business Opportunity
 - Market
 - Product Roadmap
-- Visual Identity
 - Thank you Message.
 
 ---
@@ -71,7 +70,7 @@ class: 'bg-blue-500 text-white'
 
 ## 3. Our Solution
 
-Edupeer is a web-based platform connecting Nigerian secondary schools with volunteer tutors (universty students, NYSC members, and professionals) to provide accessible learning support. Key features include:
+Edupeer is a web-based platform connecting Nigerian secondary school students with volunteer tutors (universty students, NYSC members, and professionals) to provide accessible learning support. Key features include:
 
  * Curriculum-aligned resources - Micro-lessons, past questions, and study aids.
  * Interactive learning - Quizzes and gamification (badges, progress tracking)
@@ -109,17 +108,34 @@ class: 'bg-blue-500 text-white'
 
 ---
 
-## 5. Business Opportunity
+## 5. Visuality Identity
+
+   Logo Design:
+   
+   - Variants: version with a graduation cap subtly integrated into chat bubbles
+   - Icon: Abstract design combining "e and "p" as a network link or chat symbol
+   - Tone: Hopeful, grounded, community-centered.
+   - Style Minimalist, clean, balanced.
+
+---
+layout: default
+class: 'bg-blue-500 text-white
+
+---
+## 6. Business Opportunity
    - Scalable social impact model: With a web-based model, Edupeer can rapidly scale across regions with minimal cost per additional dtudent or tutor.
    - Government and NGO parterships: Our alignment with international goals for education reform and youth empowerment could open doors for funding, integration into school systems , and support for logistics and awareness.
    - Freemium Model: While we can ensure that basic access is free, optional premium content or certification-based       programs can be used to generate revenue.
+  
 ---
 layout: default
 class: 'bg-blue-500 text-white'
 
 ---
 
-### 6. Market
+
+
+### 7. Market
 Nigeria has over 13 million out-of-school children, with rural and underdeserved areas facing the biggest gaps in access to quality education. Edupeer addresses this by leveraging mobile technology and internet growth to provide scalable remote learning support.
 
 Target Users:
@@ -138,7 +154,7 @@ class: 'bg-blue-500 text-white'
 ---
 
 
-## 7. Product Roadmap
+## 8. Product Roadmap
 
 | Phase | Milestone | Key Actions |
 |-------|-----------|-------------|
@@ -147,20 +163,6 @@ class: 'bg-blue-500 text-white'
 | Q4 2025 | Expansion (5–10 hubs) | Local school partners, donors, mentor training |
 | Q1 2026 | Platform Dev | Mobile-first platform, low-data learning app |
 | Q2 2026 | National Rollout | Pilot in new regions, govt partnerships |
-
----
-layout: default
-class: 'bg-blue-500 text-white'
----
-
-
-## 8: Visual Identity
-Logo Design:
-
--  Variants: Version with a graduation cap subtly integrated into chat bubbles. 
--  Icon: Abstract design combining "e" and "p" as a network link or chat symbol.
--  Tone: Hopeful, grounded, community-centered.
--  Style Minimalist, clean, balanced.
 
 
 ---
