@@ -112,7 +112,7 @@ class: 'bg-blue-500 text-white'
 
 ---
 
-## 5. Visuality Identity
+## 5. Visual Identity
 
    Logo Design:
    
